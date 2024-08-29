@@ -1,0 +1,13 @@
+h1{
+    font-size: 58px;
+    line-height: 1em;
+}
+.t-pages{
+    background-image: radial-gradient(circle at bottom, #45aaff, #007ce6);
+    padding: 200px 0px;
+}
+    
+.t-page{
+    padding-top: 100px !important;
+    padding-bottom: 100px !important;
+}
